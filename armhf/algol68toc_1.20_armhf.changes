@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Tue, 13 Apr 2021 15:44:00 +0100
+Source: algol68toc
+Binary: algol68toc
+Architecture: source armhf
+Version: 1.20
+Distribution: unstable
+Urgency: low
+Maintainer: Sian Mountbatten <poenikatu@fastmail.co.uk>
+Changed-By: Neil Matthew <neil@tilde.co.uk>
+Description:
+ algol68toc - Algol 68 development system
+Changes:
+ algol68toc (1.20) unstable; urgency=low
+ .
+   * Completed addition of envp to main in liba68prel/osshell.a68 and src/a68toc.a68
+   * Corrected sprintf formats for LONG INTs in liba68prel/usefulops.a68
+   * Ported to ARM 32-bit architecture (armhf)
+   * Compile with gcc -fpack-struct=4 on armhf to avoid conformity clause errors on union copies
+   * Include <unistd.h> in library/Aerror.h to avoid warning about write()
+   * Fix Makefiles to remove a68toc.o on target clean and intall info files correctly
+Checksums-Sha1:
+ baa968c9b2d208686529e82710da92a525f78cff 600 algol68toc_1.20.dsc
+ 0341690384ff85764f3fed8f636fdd4e3c187738 3960432 algol68toc_1.20.tar.xz
+ 9f78ae3cd44bd0ad62506278216d8aa8c09f4784 4740 algol68toc_1.20_armhf.buildinfo
+ a39c3bc4a58f8573bce8a61f26b0ae9a68e9cee6 2437132 algol68toc_1.20_armhf.deb
+Checksums-Sha256:
+ ebdceda229b36df00e8b7fb33a859bf1b7f99fb3c60e4e1c73219246dbd22031 600 algol68toc_1.20.dsc
+ 6a1e15685ca4c117d0b32565de9a5203a3e5f79e5255671fddce967755e39b84 3960432 algol68toc_1.20.tar.xz
+ 7431bef9e02f73c48bf6ba7328770d99f4005404bd4eab02c638806f3224ca3e 4740 algol68toc_1.20_armhf.buildinfo
+ eeb414b1d2196ca0629ffb272603b866926743feead911eaedc6c2c620b85e74 2437132 algol68toc_1.20_armhf.deb
+Files:
+ 41029082e34c9210e4303141d146fd17 600 devel optional algol68toc_1.20.dsc
+ c56cb715f1294e092a89b714dece1027 3960432 devel optional algol68toc_1.20.tar.xz
+ 5313856b5c66c0ddd424b031104b8a8d 4740 devel optional algol68toc_1.20_armhf.buildinfo
+ ddbcc33ac48005925578d6a7c8acb105 2437132 devel optional algol68toc_1.20_armhf.deb
