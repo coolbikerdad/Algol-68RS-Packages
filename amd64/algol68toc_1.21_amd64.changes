@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Mon, 03 Apr 2021 00:00:00 +0100
+Source: algol68toc
+Binary: algol68toc
+Architecture: source amd64
+Version: 1.21
+Distribution: unstable
+Urgency: low
+Maintainer: Sian Mountbatten <poenikatu@fastmail.co.uk>
+Changed-By: Neil Matthew <neil@tilde.co.uk>
+Description:
+ algol68toc - Algol 68 development system
+Changes:
+ algol68toc (1.21) unstable; urgency=low
+ .
+   * Ported to ARM 64-bit architecture (aarch64)
+   * Ported to Intel 64-bit architecture (x86_64)
+   * Included optional Boehm garbage collector (default for 64-bit systems)
+   * Added initial support for macOS (darwin)
+Checksums-Sha1:
+ b322151491d7368b472f92ec05242a69fbc0e182 600 algol68toc_1.21.dsc
+ 3732aaad8a9a054e90d0031a048db441c7c1e4fa 5761888 algol68toc_1.21.tar.xz
+ 99d1814cd9ad2a00778376bde6b1102f9e37455f 4792 algol68toc_1.21_amd64.buildinfo
+ 63c23b482f1c551ab409f307d277bea513e8d691 2699120 algol68toc_1.21_amd64.deb
+Checksums-Sha256:
+ 6c44e44c36d829d355d86ea236e623684cedb4f40e2f32ff56f49fc89e513ebc 600 algol68toc_1.21.dsc
+ 9f6285b1b82d71b3fb47ea3cedaf90e911a345b9242301186ba26f60775affab 5761888 algol68toc_1.21.tar.xz
+ 5bdcbfb8adb85ad69f44550f68cf4303b5ab4876f9364d7d803700b6cfca1ac6 4792 algol68toc_1.21_amd64.buildinfo
+ 1ee828c4ee5e0d3b23f1b9cd20d846a9b4278280f60f7a15f71bb985d5d97110 2699120 algol68toc_1.21_amd64.deb
+Files:
+ bba3e293c21e6376c05a25a3df0151e9 600 devel optional algol68toc_1.21.dsc
+ d38d23ed4189c5b402197f7740c05524 5761888 devel optional algol68toc_1.21.tar.xz
+ 6861b3f72de2b9b419bb61bf99a4941e 4792 devel optional algol68toc_1.21_amd64.buildinfo
+ 5761e748ddfe98656a80054f07ba2609 2699120 devel optional algol68toc_1.21_amd64.deb
