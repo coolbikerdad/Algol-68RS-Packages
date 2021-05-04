@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 8.0.0), libc6-dev (>= 2.13-24)
 Package-List:
  algol68toc deb devel optional arch=any
 Checksums-Sha1:
- 3732aaad8a9a054e90d0031a048db441c7c1e4fa 5761888 algol68toc_1.21.tar.xz
+ 695f258c8aac4a20860549dffa952e975a227051 5763560 algol68toc_1.21.tar.xz
 Checksums-Sha256:
- 9f6285b1b82d71b3fb47ea3cedaf90e911a345b9242301186ba26f60775affab 5761888 algol68toc_1.21.tar.xz
+ fbd542228541a62764c1cc50dd809743f11f7c2a62630eef80a8762203fe4833 5763560 algol68toc_1.21.tar.xz
 Files:
- d38d23ed4189c5b402197f7740c05524 5761888 algol68toc_1.21.tar.xz
+ b934cb502ac37e16cc36adb3c485470e 5763560 algol68toc_1.21.tar.xz

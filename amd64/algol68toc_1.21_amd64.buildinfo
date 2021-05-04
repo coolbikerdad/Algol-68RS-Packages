@@ -4,17 +4,17 @@ Binary: algol68toc
 Architecture: amd64 source
 Version: 1.21
 Checksums-Md5:
- bba3e293c21e6376c05a25a3df0151e9 600 algol68toc_1.21.dsc
- 5761e748ddfe98656a80054f07ba2609 2699120 algol68toc_1.21_amd64.deb
+ 2f227d72fdcb75c363697458f86e949b 600 algol68toc_1.21.dsc
+ 655aec0c19b13101ce34b9e5521e145f 2698708 algol68toc_1.21_amd64.deb
 Checksums-Sha1:
- b322151491d7368b472f92ec05242a69fbc0e182 600 algol68toc_1.21.dsc
- 63c23b482f1c551ab409f307d277bea513e8d691 2699120 algol68toc_1.21_amd64.deb
+ 69a11b8c67771c39854546ac1a1232ebd3a793ac 600 algol68toc_1.21.dsc
+ 3d7495e27ae04199261248c015ba4e75a72c122a 2698708 algol68toc_1.21_amd64.deb
 Checksums-Sha256:
- 6c44e44c36d829d355d86ea236e623684cedb4f40e2f32ff56f49fc89e513ebc 600 algol68toc_1.21.dsc
- 1ee828c4ee5e0d3b23f1b9cd20d846a9b4278280f60f7a15f71bb985d5d97110 2699120 algol68toc_1.21_amd64.deb
+ b94ce5e458a03bcb7e24f9ac47b8f785d4d022237070946f8e53bc615057a579 600 algol68toc_1.21.dsc
+ 7f0be4da2b533a972c34c95fda168f40ee756d6fa53b2c12a972472703b45788 2698708 algol68toc_1.21_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 03 May 2021 16:38:22 +0100
+Build-Date: Wed, 05 May 2021 00:25:59 +0100
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-includes

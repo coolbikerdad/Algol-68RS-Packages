@@ -18,17 +18,17 @@ Changes:
    * Included optional Boehm garbage collector (default for 64-bit systems)
    * Added initial support for macOS (darwin)
 Checksums-Sha1:
- b322151491d7368b472f92ec05242a69fbc0e182 600 algol68toc_1.21.dsc
- 3732aaad8a9a054e90d0031a048db441c7c1e4fa 5761888 algol68toc_1.21.tar.xz
- 99d1814cd9ad2a00778376bde6b1102f9e37455f 4792 algol68toc_1.21_amd64.buildinfo
- 63c23b482f1c551ab409f307d277bea513e8d691 2699120 algol68toc_1.21_amd64.deb
+ 69a11b8c67771c39854546ac1a1232ebd3a793ac 600 algol68toc_1.21.dsc
+ 695f258c8aac4a20860549dffa952e975a227051 5763560 algol68toc_1.21.tar.xz
+ f3b2e3e17cc3a690dae1a0baff7e38651fa26420 4792 algol68toc_1.21_amd64.buildinfo
+ 3d7495e27ae04199261248c015ba4e75a72c122a 2698708 algol68toc_1.21_amd64.deb
 Checksums-Sha256:
- 6c44e44c36d829d355d86ea236e623684cedb4f40e2f32ff56f49fc89e513ebc 600 algol68toc_1.21.dsc
- 9f6285b1b82d71b3fb47ea3cedaf90e911a345b9242301186ba26f60775affab 5761888 algol68toc_1.21.tar.xz
- 5bdcbfb8adb85ad69f44550f68cf4303b5ab4876f9364d7d803700b6cfca1ac6 4792 algol68toc_1.21_amd64.buildinfo
- 1ee828c4ee5e0d3b23f1b9cd20d846a9b4278280f60f7a15f71bb985d5d97110 2699120 algol68toc_1.21_amd64.deb
+ b94ce5e458a03bcb7e24f9ac47b8f785d4d022237070946f8e53bc615057a579 600 algol68toc_1.21.dsc
+ fbd542228541a62764c1cc50dd809743f11f7c2a62630eef80a8762203fe4833 5763560 algol68toc_1.21.tar.xz
+ 77064e0c3a93e33afb0615fa50be96340b8e07afe1b48106f503514a7df96ce6 4792 algol68toc_1.21_amd64.buildinfo
+ 7f0be4da2b533a972c34c95fda168f40ee756d6fa53b2c12a972472703b45788 2698708 algol68toc_1.21_amd64.deb
 Files:
- bba3e293c21e6376c05a25a3df0151e9 600 devel optional algol68toc_1.21.dsc
- d38d23ed4189c5b402197f7740c05524 5761888 devel optional algol68toc_1.21.tar.xz
- 6861b3f72de2b9b419bb61bf99a4941e 4792 devel optional algol68toc_1.21_amd64.buildinfo
- 5761e748ddfe98656a80054f07ba2609 2699120 devel optional algol68toc_1.21_amd64.deb
+ 2f227d72fdcb75c363697458f86e949b 600 devel optional algol68toc_1.21.dsc
+ b934cb502ac37e16cc36adb3c485470e 5763560 devel optional algol68toc_1.21.tar.xz
+ d3dbc379f2b2af5ebeb26d5c7e99b7e6 4792 devel optional algol68toc_1.21_amd64.buildinfo
+ 655aec0c19b13101ce34b9e5521e145f 2698708 devel optional algol68toc_1.21_amd64.deb
